@@ -1,0 +1,100 @@
+{
+    "products": [
+    {
+      "id": "1",
+      "name": "OverSize T-Shirt - Classic",
+      "price": "Rs:1000",
+      "category": "Cloth",
+      "description": "A comfortable oversized T-shirt perfect for casual wear.",
+      "image": "https://looksgood.tokotema.com/wp-content/uploads/2024/08/image-40.png"
+    },
+    {
+      "id": "2",
+      "name": "Graphic OverSize T-Shirt",
+      "price": "Rs:1200",
+      "category": "Cloth",
+      "description": "Stylish oversized T-shirt with a bold graphic print.",
+      "image": "https://looksgood.tokotema.com/wp-content/uploads/2024/08/image-39.png"
+    },
+    {
+      "id": "3",
+      "name": "Vintage OverSize T-Shirt",
+      "price": "Rs:1500",
+      "category": "Cloth",
+      "description": "A vintage-style oversized T-shirt for a retro look.",
+      "image": "https://looksgood.tokotema.com/wp-content/uploads/2024/08/image-38.png"
+    },
+    {
+      "id": "4",
+      "name": "Basic OverSize T-Shirt",
+      "price": "Rs:800",
+      "category": "Cloth",
+      "description": "An essential basic oversized T-shirt for every wardrobe.",
+      "image": "https://looksgood.tokotema.com/wp-content/uploads/2024/08/image-37.png"
+    },
+    {
+      "id": "5",
+      "name": "Cotton OverSize T-Shirt",
+      "price": "Rs:900",
+      "category": "Cloth",
+      "description": "Soft cotton oversized T-shirt for ultimate comfort.",
+      "image": "https://looksgood.tokotema.com/wp-content/uploads/2024/08/image-36.png"
+    },
+    {
+      "id": "6",
+      "name": "Striped OverSize T-Shirt",
+      "price": "Rs:1100",
+      "category": "Cloth",
+      "description": "Trendy striped oversized T-shirt for a modern look.",
+      "image": "https://looksgood.tokotema.com/wp-content/uploads/2024/08/image-34-270x300.png"
+    },
+    {
+      "id": "7",
+      "name": "Floral OverSize T-Shirt",
+      "price": "Rs:1300",
+      "category": "Cloth",
+      "description": "Beautiful floral print oversized T-shirt for a fresh vibe.",
+      "image": "https://looksgood.tokotema.com/wp-content/uploads/2024/08/image-33-270x300.png"
+    },
+    {
+      "id": "8",
+      "name": "Oversize T-Shirt - Summer Collection",
+      "price": "Rs:1250",
+      "category": "Cloth",
+      "description": "Lightweight oversized T-shirt from the summer collection.",
+      "image": "https://looksgood.tokotema.com/wp-content/uploads/2024/08/image-31-264x300.png"
+    },
+    {
+      "id": "9",
+      "name": "Fashion OverSize T-Shirt",
+      "price": "Rs:1400",
+      "category": "Cloth",
+      "description": "A fashionable oversized T-shirt that stands out.",
+      "image": "https://looksgood.tokotema.com/wp-content/uploads/2024/08/image-10-246x300.png"
+    },
+    {
+      "id": "10",
+      "name": "Athletic OverSize T-Shirt",
+      "price": "Rs:1600",
+      "category": "Cloth",
+      "description": "Perfect for workouts, this oversized T-shirt is made for movement.",
+      "image": "https://looksgood.tokotema.com/wp-content/uploads/2024/08/image-8.png"
+    },
+    {
+      "id": "11",
+      "name": "Eco-Friendly OverSize T-Shirt",
+      "price": "Rs:1350",
+      "category": "Cloth",
+      "description": "An eco-friendly oversized T-shirt made from sustainable materials.",
+      "image": "https://looksgood.tokotema.com/wp-content/uploads/2024/08/image-7-236x300.png"
+    },
+    {
+      "id": "12",
+      "name": "Bamboo Fiber OverSize T-Shirt",
+      "price": "Rs:1500",
+      "category": "Cloth",
+      "description": "Soft and breathable bamboo fiber oversized T-shirt.",
+      "image": "https://looksgood.tokotema.com/wp-content/uploads/2024/08/image-9-270x300.png"
+    }
+  ]
+}
